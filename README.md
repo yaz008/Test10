@@ -10,7 +10,7 @@ Clone the repository
 git clone <REPO_LINK>
 ```
 
-Create a Python <PYTHON_VERSION> vertual enironment, activate it and run
+Create a Python 3.10.9 virtual enironment, activate it and run
 
 ```sh
 pip install -r requirements.txt
